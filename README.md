@@ -4,7 +4,8 @@ An interactive Power BI dashboard designed to provide a high-level view of an as
 
 ## Dashboard Preview
 
-![Asset Leasing Portfolio Dashboard](screenshots/dashboard.png)
+![Asset Leasing Portfolio Dashboard]
+<img width="1346" height="756" alt="image" src="https://github.com/user-attachments/assets/4f15a548-adfa-40db-9402-8517924725a3" />
 
 ## Overview
 
